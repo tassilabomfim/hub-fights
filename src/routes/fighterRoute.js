@@ -8,7 +8,7 @@ router.get('/:id', controller.getFighter)
 router.post('/creat', controller.postAddFighter)
 router.put('/:id/update', controller.updateFighter)
 router.delete('/:id', controller.deleteFighter)
-// router.post('/event/:id/post', controller.postFighterEvent)
+
 
 
 

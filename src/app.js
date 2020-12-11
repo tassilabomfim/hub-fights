@@ -4,7 +4,7 @@ const bodyparser = require('body-parser') //importando conversão de corpo
 
 const cors = require('cors') //importando o cors que é um desbloqueador de fornecimento dos dados
 
-const database = require('./models/database')
+const database = require('./data/database')
 database.connect()
 
 const index = require('./routes/index')
