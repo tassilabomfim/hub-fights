@@ -77,12 +77,12 @@ Outras Ferramentas
 
 ## Fluxo do consumo da API
 
-![assets/fluxograma.png](assets/fluxograma.png)
+<p align="center"><img src="assents/fluxograma.png"/></p>
 
 ## Rotas + Contrato
 Essa API deve ter as seguintes rotas:
 
-![assets/rotas.png](assets/rotas.png)
+<p align="center"><img src="assents/rotas.png"/></p>
 
 #### Links
 
