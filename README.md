@@ -2,7 +2,7 @@
 ## Descrição
 Projeto de conclusão do curso - Desenvolvimento Back-end da [{Reprograma}](https://reprograma.com.br/). 
 
-###Proposta do projeto final 
+### Proposta do projeto final 
 Construção de uma API de tema livre, capaz e executar um CRUD, as quatro operações básicas usadas em Banco de Dados Relacionais - Create (Criação), Read (Consulta), Update (Atualização) e Delete (Destruição), em um banco de dados NoSQL com realização do deploy desse projeto no Heroku. 
 
 ## Finalidade da API Hub Fight's
@@ -14,14 +14,14 @@ Como problemática do cenário atual nem todos os atletas têm acesso a esses ev
 >
 >O esporte no brasil é ferramenta de inclusão social, com a plataforma será possivél aumentar as oportunidades para os atletas não desistirem de seus sonhos e incentivarem as crianças e jovens das suas comunidades.
 
-## Solução da Hub Fight's
-Objetivos: 
-- Visilibdade para os atletas profissionais
-- Fortalecimento no mercado para os eventos nacionais 
-- Conexão global entre eventos e atletas profissionais 
-- Ambiente oficial para atletas de financiamento colaborativo.
+### Solução da Hub Fight's
+>Objetivos: 
+>- Visilibdade para os atletas profissionais
+>- Fortalecimento no mercado para os eventos nacionais 
+>- Conexão global entre eventos e atletas profissionais 
+>- Ambiente oficial para atletas de financiamento colaborativo.
 
-Desta forma crio a API da primeira plataforma marketplace voltada para o esporte de Artes Marciais - Conectando a nível global, Promotores de Eventos, Atletas de MMA e Apoiadores de Financiamento Colaborativo.
+>Desta forma crio a API da primeira plataforma marketplace voltada para o esporte de Artes Marciais >- Conectando a nível global, Promotores de Eventos, Atletas de MMA e Apoiadores de Financiamento Colaborativo.
 
 ## Tecnologias utilizadas
 
@@ -38,8 +38,8 @@ Para a consturição do projeto, as seguintes tecnologiasforam utilizadas:
 Outras Ferramentas
 - [Nodemon](https://nodemon.io/)
 - [Mongoose](https://mongoosejs.com/)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [cors](https://www.npmjs.com/package/cors)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Cors](https://www.npmjs.com/package/cors)
 
 ## Arquitetura
 
