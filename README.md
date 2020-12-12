@@ -134,9 +134,11 @@ Essa API deve ter as seguintes rotas:
 
 
 ## ✅Nota importante
+>Gratidão a toda equipe da Reprograma, por esse projeto incrível, a empresa parceira XP inc. que viabilizou que >esse bootcamp transformace a vida de tantas mulheres e que assim pudessemos voltar a ocupar nosso espaço na >tecnologia. 
 
+>Nessas linhas de código deixo a revolução, em pequenas atitudes promovo grandes transformações! 
 
-
+### { Code com uma mulher }
 ### Tassila Bomfim
 [Linkedin](https://www.linkedin.com/in/tassilabomfim/)
 
