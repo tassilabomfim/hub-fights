@@ -86,7 +86,7 @@ Essa API deve ter as seguintes rotas:
 
 #### Links
 
-* local: http://localhost:555
+* local: http://localhost:5555
 * Heroku: https://hub-fights.herokuapp.com/
 
 
@@ -138,7 +138,7 @@ Essa API deve ter as seguintes rotas:
 >
 >Nessas linhas de código deixo a revolução, em pequenas atitudes promovo grandes transformações! 
 
-### { Code com uma mulher } 
+### { Code como uma mulher } 
 ### Tassila Bomfim
 [Linkedin](https://www.linkedin.com/in/tassilabomfim/)
 
